@@ -1,0 +1,46 @@
+.jumbotron{
+    background: url("../images/bacteria.jpg") no-repeat center center;
+    color: rgb(233, 238, 250);
+    background-size: cover;
+    /* opacity: 0.5; */
+}
+
+#jumbo2 {
+    color: rgb(233, 238, 250);
+    background-size: cover;
+    background: rgb(0, 2, 7);
+    background: url("../images/bacteria2.jpeg") no-repeat center center;
+    margin-bottom: 20px;
+}
+
+body{
+    background-color: rgb(121, 121, 121);
+}
+
+#bubble{
+    margin-top: 30px;
+}
+
+#welcome-paragraph{
+    color: rgb(233, 238, 250);
+    margin-bottom: 20px;
+    font-size:7ex;
+}
+
+#text{
+    color: rgb(233, 238, 250);
+    margin-bottom: 30px;
+    font-size:x-large;
+}
+
+#subtitle{
+    margin-top: 20px;
+    font-weight: light;
+    font-size: xx-large;
+    /* opacity: 10; */
+}
+
+
+/* #sample-metadata{
+    color:rgb(255, 4, 4)
+} */
